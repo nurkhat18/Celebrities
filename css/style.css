@@ -1,0 +1,98 @@
+/*
+  Name: Nurkhat Jumabaev
+  Course name: CSc337
+  Description: This is the css page for creating
+  Celebrities pages. Celebrities pages consists of 2 web pages.
+  This is for the first page.
+*/
+
+body{
+  margin: 0px;
+  background-color: indianred;
+}
+
+#content-1,
+#content-2 {
+  margin: 0px;
+  text-align: center;
+  padding: 30px;
+}
+
+#content-1{
+  background-color: rgb(65, 183, 237);
+  color: antiquewhite;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 30px;
+}
+
+#content-2 {
+  background-color: rgb(224, 224, 123);
+  font-size: 20;
+}
+#this-page,
+#next-page{
+  margin-right: 20px;
+  color: maroon;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+#next-page{
+  margin-left: 20px;
+}
+
+
+
+p{
+  font-size: 18px;
+  color: moccasin;
+  font-family: monospace;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+#div-img{
+  padding-top: 50px;
+}
+
+img{
+  border: 5px solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+}
+
+table{
+  margin: auto;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: Verdana;
+  border-style:double;
+  border-color: white;
+  border-collapse: collapse;
+  border-width: 5px;
+  color: darkcyan;
+}
+
+td,
+th{
+  border-style: ridge;
+  border-color: white;
+  width: 200px;
+  height: 100px;
+}
+
+th{
+  background-color: lightblue;
+}
+td{
+  background-color: lightyellow;
+}
+
+
+
+
